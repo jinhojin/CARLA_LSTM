@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jin"
+  given-names: "Hojin"
+  orcid: "https://orcid.org/0009-0003-2394-3765"
+title: "CARLA_LSTM"
+version: 1.0.0
+doi: 10.5281/zenodo.11505857
+date-released: 2024-06-06
+url: "https://github.com/jinhojin/CARLA_LSTM"
